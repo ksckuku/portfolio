@@ -94,7 +94,7 @@ header{
 
 
 #intro .jumbotron{
-	background: url('/Users/kwan/Desktop/Website/images/section01-bg.svg');
+	background: url('../images/section01-bg.svg');
 	background-size: 100%;
     background-repeat: no-repeat;
     background-position: left bottom;
