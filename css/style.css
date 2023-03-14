@@ -189,17 +189,14 @@ p.lead{
 	border-radius: 0;
 }
 
+
 #projects{
 	background: #fffbf3;
-}
-
-
-#projects{
 	background-image: url('../images/section03-bg.svg');
 	background-size: 100%;
     background-repeat: no-repeat;
     background-position: left top;
-    margin-top: -1px;
+    margin-top: -2px;
 	padding: 100px 0px 80px 0px;
 }
 
