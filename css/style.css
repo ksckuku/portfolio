@@ -195,7 +195,7 @@ p.lead{
 
 
 #projects{
-	background-image: url('/Users/kwan/Desktop/Website/images/section03-bg.svg');
+	background-image: url('../images/section03-bg.svg');
 	background-size: 100%;
     background-repeat: no-repeat;
     background-position: left top;
